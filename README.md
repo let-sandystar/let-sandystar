@@ -1,7 +1,7 @@
 ## Hi there, I'm Sandra Coco 👋
 
 # 💫 About Me:
-💻 Front end developer student '25-27<br>👩🏻‍🏫 Previous profession - kindergarden teacher<br>🌱 Currently learning Javscript<br>💜 fun fact is that im really into puzzles and quizzes
+💻 Front end developer student '25-27<br>👩🏻‍🏫 Previous profession - kindergarten teacher<br>🌱 Currently learning Javscript<br>💜 fun fact is that im really into puzzles and quizzes
 
 
 # 💻 Tech Stack:
